@@ -17,11 +17,11 @@ No additional installation is required beyond Python itself. The Turtle Graphics
 3. Open a terminal or command prompt.
 4. Navigate to the directory where turtle_race.py is saved.
 5. Run the script using the following command:
-Copy code
-python turtle_race.py
 
+   ``python turtle_race.py``
 6. A window will pop up asking you to make your bet on the turtle's color.
 7. Enjoy the race and see if your bet wins!
+
 
 ## How It Works
 . The game initializes a screen and six turtles, each a different color.
@@ -38,8 +38,9 @@ python turtle_race.py
 
 Contributions to the Turtle Race Game are welcome! Here are ways you can contribute:
 
-Reporting bugs
-Suggesting enhancements
-Submitting pull requests with improvements
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+. Reporting bugs
+
+. Suggesting enhancements
+
+. Submitting pull requests with improvements
+
