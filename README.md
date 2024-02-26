@@ -2,11 +2,19 @@
 ## Description
 This Turtle Race Game is a simple Python script that uses the turtle module to create a fun and interactive racing game. Participants can bet on which turtle they think will win the race. The game features 6 different colored turtles racing towards the finish line. Users can enter their bet via a pop-up window at the beginning of the game.
 
+## Preview
+<img src="assets/20240227014234.png" width="500">
+
+
 ## Getting Started
 ### Dependencies
 . Python 3.x
 
 . Turtle Graphics Library
+
+
+
+
 
 ### Installing
 No additional installation is required beyond Python itself. The Turtle Graphics Library comes standard with Python.
