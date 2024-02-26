@@ -19,15 +19,23 @@ No additional installation is required beyond Python itself. The Turtle Graphics
 5. Run the script using the following command:
 Copy code
 python turtle_race.py
-A window will pop up asking you to make your bet on the turtle's color.
-Enjoy the race and see if your bet wins!
-How It Works
-The game initializes a screen and six turtles, each a different color.
-Users are prompted to bet on a turtle by entering the color they believe will win.
-Once a bet is made, the race starts, and each turtle moves a random distance forward.
-The first turtle to reach the finish line is declared the winner.
-The game announces whether the user's bet won or lost.
-Contributing
+
+6. A window will pop up asking you to make your bet on the turtle's color.
+7. Enjoy the race and see if your bet wins!
+
+## How It Works
+. The game initializes a screen and six turtles, each a different color.
+
+. Users are prompted to bet on a turtle by entering the color they believe will win.
+
+. Once a bet is made, the race starts, and each turtle moves a random distance forward.
+
+. The first turtle to reach the finish line is declared the winner.
+
+. The game announces whether the user's bet won or lost.
+
+## Contributing
+
 Contributions to the Turtle Race Game are welcome! Here are ways you can contribute:
 
 Reporting bugs
