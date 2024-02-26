@@ -4,6 +4,8 @@ This Turtle Race Game is a simple Python script that uses the turtle module to c
 
 ## Preview
 <img src="assets/20240227014234.png" width="500">
+<img src="assets/20240227014248.png" width="500">
+
 
 
 ## Getting Started
